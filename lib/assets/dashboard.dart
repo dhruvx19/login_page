@@ -11,7 +11,7 @@ class Dashboard extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       body: Container(
-        width: 300,
+        width: 400,
         height: 300,
         // color: Colors.grey,
         padding: const EdgeInsets.all(50),
